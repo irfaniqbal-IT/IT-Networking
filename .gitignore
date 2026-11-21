@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Logs & output
+*.log
+output/
+backups/
+*.pcap
+*.pcapng
+
+# Secrets - never commit
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
