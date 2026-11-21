@@ -1,0 +1,6 @@
+# Python dependencies for networking scripts
+netmiko>=4.3
+paramiko>=3.4
+scapy>=2.5
+requests>=2.31
+python-dotenv>=1.0
